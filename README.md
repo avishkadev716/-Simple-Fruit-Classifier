@@ -1,4 +1,4 @@
-# -Simple-Fruit-Classifier
+-Simple-Fruit-Classifier
 My First  simple AI/ ML project
  🍎 Simple Fruit Classifier 
 

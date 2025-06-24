@@ -1,6 +1,6 @@
 # -Simple-Fruit-Classifier
 My First  simple AI/ ML project
- 🍎 Simple Fruit Classifier (Apple vs Banana)
+ 🍎 Simple Fruit Classifier 
 
 This is a beginner-friendly machine learning project that classifies fruit images (Apple or Banana) using a Convolutional Neural Network (CNN).
 
